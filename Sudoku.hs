@@ -1,5 +1,5 @@
 -- 
--- Credits to Tom Manderson for finally helping me understand what Logic does
+-- Credits to Taylor Manderson for finally helping me understand what Logic does
 
 module Sudoku where
 
